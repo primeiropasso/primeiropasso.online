@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Finanças e Investimentos &#8211; Primeiro Passo Online</title>
+	<atom:link href="http://primeiropasso.online/categoria/financas-e-investimentos/feed/" rel="self" type="application/rss+xml" />
+	<link>http://primeiropasso.online/</link>
+	<description>Encontre o Curso para o seu Sucesso!</description>
+	<lastBuildDate>Sat, 04 Nov 2017 19:05:55 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>http://primeiropasso.online/wp-content/uploads/cropped-favicon-1-32x32.png</url>
+	<title>Finanças e Investimentos &#8211; Primeiro Passo Online</title>
+	<link>http://primeiropasso.online/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tudo sobre Bitcoins</title>
+		<link>http://primeiropasso.online/tudo-sobre-bitcoins/</link>
+		<pubDate>Sat, 04 Nov 2017 14:48:21 +0000</pubDate>
+		<dc:creator><![CDATA[primeiropasso]]></dc:creator>
+				<category><![CDATA[Finanças e Investimentos]]></category>
+
+		<guid isPermaLink="false">http://primeiropasso.online/?p=105</guid>
+		<description><![CDATA[<p>&#160; Página do Curso</p>
+<p>O post <a rel="nofollow" href="http://primeiropasso.online/tudo-sobre-bitcoins/">Tudo sobre Bitcoins</a> apareceu primeiro em <a rel="nofollow" href="http://primeiropasso.online/">Primeiro Passo Online</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p style="text-align: center;"><a class="roll-button button-slider" href="https://go.hotmart.com/Q6745743L" target="_blank" rel="noopener">Página do Curso</a></p>
+<p>O post <a rel="nofollow" href="http://primeiropasso.online/tudo-sobre-bitcoins/">Tudo sobre Bitcoins</a> apareceu primeiro em <a rel="nofollow" href="http://primeiropasso.online/">Primeiro Passo Online</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
